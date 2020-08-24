@@ -1,0 +1,32 @@
+{
+  "name": "fastify-easy-route",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artur-Frank/fastify-easy-route.git"
+  },
+  "author": {
+    "name": "Artur Frank"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Artur-Frank/fastify-easy-route/issues"
+  },
+  "homepage": "https://github.com/Artur-Frank/fastify-easy-route#readme",
+  "keywords": [
+    "fastify",
+    "route",
+    "router",
+    "routing",
+    "automatic",
+    "multiple",
+    "easy",
+    "auto"
+  ],
+  "dependencies": {
+    "fastify-plugin": "^2.3.2",
+    "fs": "0.0.1-security"
+  }
+}
